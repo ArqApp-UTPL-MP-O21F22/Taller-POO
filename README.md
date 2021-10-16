@@ -14,3 +14,5 @@ Disponible en la Biblioteca UTPL, vía Visor Web - UTPL. No olvide que antes de 
 
 Ejercicio: Capitulo 8. Pag. 357. Ejercicio 8.15. (Números complejos).
 
+Como complemento del taller, elabore el UML de su solución y publiquelo a continuación: 
+
